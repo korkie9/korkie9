@@ -44,7 +44,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zmove&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
 </div>
-[![zmove](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zmove)](https://crates.io/crates/zmove)
+[![zmove](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy)](https://crates.io/crates/zmove)
 
 
 
