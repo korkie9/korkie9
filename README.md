@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9&&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9)](https://github.com/korkie9/github-readme-stats) -->
