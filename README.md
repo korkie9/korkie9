@@ -12,7 +12,9 @@
 
 
 <div align="center"
+  <a href="https://x.com/justinkorkie"
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjustinkorkie">
+  </a>
 </div>
 
 
@@ -34,11 +36,7 @@
 
 ## 📊 Stats
 
-<div align="center">
-  <img width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?   username=korkie9&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff"
-    alt="Top Languages" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9)](https://github.com/korkie9/github-readme-stats)
 
 
 ## 🚀 Featured Projects
@@ -49,7 +47,16 @@
       src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zmove&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
 </div>
-[![zmove](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy)](https://crates.io/crates/zmove)
+
+
+<div align="center">
+  <a href="">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zcopy&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
+  </a>
+</div>
+
+
 
 
 
