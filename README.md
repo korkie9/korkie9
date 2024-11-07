@@ -2,7 +2,6 @@
 
 <br><br>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/justin-korkie-513900192/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=za"
     target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -11,11 +10,6 @@
   <a href="https://x.com/justinkorkie" target="_blank">
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjustinkorkie">
   </a>
-</div>
-
-
-
-
 
 ## 🚀 About Me
 
@@ -39,13 +33,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zmove&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
-  </a>
-</div>
-
 
 <div align="center">
   <a href="https://crates.io/crates/zcopy">
@@ -54,8 +41,8 @@
   </a>
 </div>
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zmove)](https://github.com/korkie9/zmove)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy)](https://github.com/korkie9/zcopy)
 
 
 <div align="center">
