@@ -2,6 +2,7 @@
 
 <br><br>
 
+<div align="center">
   <a href="https://www.linkedin.com/in/justin-korkie-513900192/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=za"
     target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -10,6 +11,8 @@
   <a href="https://x.com/justinkorkie" target="_blank">
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjustinkorkie">
   </a>
+</div>
+
 
 ## 🚀 About Me
 
@@ -28,7 +31,12 @@
 
 ## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9)](https://github.com/korkie9/github-readme-stats)
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkie9)](https://github.com/korkie9/github-readme-stats) -->
 
 
 ## 🚀 Featured Projects
