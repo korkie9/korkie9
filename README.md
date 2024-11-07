@@ -11,13 +11,7 @@
 </div>
 
 
-<div align="center">
-  <a href="https://x.com/Justinkorkie"
-    target="_blank">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjustin-korkie-513900192%2F%3Foriginal_referer%3Dhttps%253A%252F%252Fwww%252Egoogle%252Ecom%252F%26originalSubdomain%3Dza"
-      alt="LinkedIn" />
-  </a>
-</div>
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjustinkorkie">
 
 
 
