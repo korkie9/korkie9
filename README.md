@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Rubik+Wet+Paint&color=57BB01&lines=Skater.+Student.+Full+time+Brogrammer" alt="Typing SVG" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&pause=1000&color=57BB01&width=435&lines=Skater.+Student.+Full+time+Brogrammer" alt="Typing SVG" /></a>
 
 <br><br>
 
