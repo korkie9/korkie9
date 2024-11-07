@@ -37,12 +37,12 @@
 <div align="center">
   <a href="https://crates.io/crates/zcopy">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zcopy&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zmove)](https://github.com/korkie9/zmove)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy)](https://github.com/korkie9/zcopy)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zmove)](https://crates.io/crates/zmove) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy)](https://crates.io/crates/zcopy) -->
 
 
 <div align="center">
