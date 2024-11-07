@@ -12,7 +12,7 @@
 
 
 <div align="center"
-  <a href="https://x.com/justinkorkie"
+  <a href="https://x.com/justinkorkie" target="_blank">
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjustinkorkie">
   </a>
 </div>
