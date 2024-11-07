@@ -1,7 +1,5 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/demo/?font=Rubik+Wet+Paint&color=57BB01&lines=Skater.+Student.+Full+time+Brogrammer"
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Rubik+Wet+Paint&color=57BB01&lines=Skater.+Student.+Full+time+Brogrammer" alt="Typing SVG" />
 </div>
 
 <br><br>
