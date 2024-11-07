@@ -26,8 +26,6 @@
 
 
 </td>
-<td width="30%" align="center">
-</td>
 </tr>
 </table>
 
@@ -47,8 +45,15 @@
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?   username=korkie9&repo=zmove&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
+</div>
+
+
+
+<div align="center">
   <a href="https://crates.io/crates/zcopy">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
 </div>
+
+
