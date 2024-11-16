@@ -1,5 +1,5 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=1000&lines=Eat%2C+sleep%2C++%CC%B6w%CC%B6r%CC%B6i%CC%B6t%CC%B6e%CC%B6+%CC%B6t%CC%B6e%CC%B6s%CC%B6t%CC%B6s%CC%B6%2C+push+straight+to+production+on+Friday%2C+Repeat" alt="Typing SVG" /></a> -->
-<p>Eat, sleep,  ̶w̶r̶i̶t̶e̶ ̶t̶e̶s̶t̶s̶, push straight to production on Friday, Repeat</p>
+<p>Eat, sleep,  ̶w̶r̶i̶t̶e̶ ̶t̶e̶s̶t̶s̶, push straight to production on a Friday, Repeat</p>
 
 
 <br><br>
