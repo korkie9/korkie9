@@ -26,9 +26,9 @@
 
 🌱 Working on K53 learning app using Flutter
 
-📋Text Editor: Neovim
+📋 Text Editor: Neovim
 
-🌐Language: English
+🌐 Language: English
 
 
 </td>
