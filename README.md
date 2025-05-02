@@ -22,9 +22,9 @@
 <tr>
 <td width="70%" align="left">
 
-💡 Currently Studying cybersecurity at Mido Academy
+💡 Incident response engineer
 
-🌱 Working on K53 learning app using Flutter
+🌱 OS: Arch (btw)
 
 📋 Text Editor: Neovim
 
@@ -63,6 +63,14 @@
   <a href="https://crates.io/crates/zcopy">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=zcopy&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://aur.archlinux.org/packages/da-browser-launcher">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=korkie9&repo=da-browser-launcher&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
   </a>
 </div>
 
